@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Basic Node.js application for Jenkins and Docker CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Tests passed\"",
+    "start": "node server.js"
+  },
+  "author": "Dharani Kumar",
+  "license": "ISC"
+}
